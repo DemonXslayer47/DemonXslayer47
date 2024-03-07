@@ -1,23 +1,10 @@
 # Hi there! 
 
-I'm [Your Name], a passionate developer with a strong foundation in web development, data analysis, and project management. I'm currently exploring DevOps tools and methodologies to enhance my ability to automate software delivery pipelines and infrastructure management.
+I'm Sreehari Thota, a passionate developer with a strong foundation in web development, data analysis, and project management. I'm currently exploring DevOps tools and methodologies to enhance my ability to automate software delivery pipelines.
 
-**Skills**
 
 **Technical Skills:**
->>> print progress(1, 100, 42, 10)
-⎹████▂▁▁▁▁▁⎸
->>> print progress(1, 10, 3, 20, style=1)
-⎹⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⎸
->>> print progress(50, 100, 80, 10, style=16)
-⎹██████▏▏▏▏⎸
->>> print progress(1, 5, 4.2, 15, style=4, before='<', after='>')
-<■■■■■■■■■■■■□□□>
->>> print progress(0.1, 1.0, 0.42, 10, style=6, before='[', after=']')
-[■■■▩□□□□□□]
->>> print progress(1, 100, 34, 5, style=6, before='Battery: ', after='')
-Battery: ■▩□□□
-"""
+
 * **Languages:** Python, Java, C++, Shell Script
 * **Front-End:** React.js, Angular Framework
 * **Back-End:** Flask, MS SQL Server, AWS
