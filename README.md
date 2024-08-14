@@ -1,53 +1,110 @@
-<h1 align="center">Hi 👋, I'm Sreehari Thota</h1>
-<h3 align="center">A passionate developer with a strong foundation in web development, data analysis, and project management. I'm currently exploring DevOps tools and methodologies to enhance my ability to automate software delivery pipelines.</h3>
+# Hi, I'm Sreehari Thota 👋
 
-- 🌱 I’m currently learning **DevOps and Data Analyst related tools or frameworks, Methodologies and applications.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreehari%20Thota-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sreeharithota/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sreehari%20Thota-black?style=flat-square&logo=github)](https://your-portfolio-link.com)
+[![Medium](https://img.shields.io/badge/Medium-Sreehari%20Thota-12100E?style=flat-square&logo=medium)](https://medium.com/@yourusername)
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Associate%20Solutions%20Architect-orange?style=flat-square&logo=amazon-aws)](https://www.certification-link.com)
 
-- 📫 How to reach me **sreehari01thota@gmail.com**
+📧 **Contact me:** t.sreehari16@gmail.com | 📱 **+1 (314)-500-9664**
 
-**Let's connect!**
+## 💻 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sreehari-thota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreehari-thota/" height="30" width="40" /></a>
-</p>
+I am a highly skilled **Senior Java Full-Stack Developer** with over **7 years** of experience in crafting scalable and secure enterprise and web applications across diverse domains. I specialize in developing modern, responsive user interfaces and robust back-end services, with a strong emphasis on **Java** and **JavaScript** technologies.
 
-**Technical Skills:**
+I recently completed my **Master's in Computer Science** from **Saint Louis University**, and I hold an **AWS Associate Solution Architect Certification**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Technical Skills
 
+### Front-End Development
+- **Languages & Tools:**  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) 
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-* **Languages:** Python, Java, C++, Shell Script
-* **Front-End:** React.js, Angular Framework
-* **Back-End:** Flask, MS SQL Server, AWS
-* **DevOps:** Git, CircleCI, Jenkins, Docker, Linux
-* **Data Analysis:** SQL, MSSQL, Tableau
-* **Soft Skills:** Communication, Team Management, Time Management, Critical Thinking
+### Back-End Development
+- **Languages & Frameworks:**  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Project Experience**
+### Databases
+- **Technologies:**  
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Clinical Trials Office Database Developer - Team Lead (2023)**
+### DevOps & Cloud
+- **Tools & Platforms:**  
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
+  ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) 
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-* SLU School of Medicine Clinical Trials Office
-* Technologies Used: Reactjs, MSSQL, Flask, Jupyter Notebook
-* Led the development of a robust Clinical Trials Data Tracking System, migrating data from Google Sheets to an MS SQL Server database using Jupyter Notebook for data accuracy.
-* Utilized React for an intuitive front-end, Flask for a resilient backend, and MS SQL for efficient database management, implementing RESTful APIs for real-time data updates and dynamic reporting.
-* Enhanced user experience by designing an interactive front-end in React, facilitating easy tracking and information updates.
+---
 
-**MECHAZONE - Automotive Parts E-commerce Platform (2023)**
+## 🧰 Tools & Technologies
 
-* Designed and developed MECHAZONE, a comprehensive e-commerce platform for automotive enthusiasts.
-* Leveraged React, MSSQL, and Flask to simplify the process of finding and acquiring auto parts.
+- **Programming Languages:**  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-**Other Projects:**
+- **Frameworks & Libraries:**  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-* SQL Data Exploration and Visualization (2023): Employed MS Excel, MSSQL, and Tableau for exploring and visualizing data.
-* Predicting the Risk of Heart Disease using Artificial Intelligence (2023): Conducted research on AI and machine learning algorithms, including logistic regression, decision trees, neural networks, and KNN (Python, Jupyter Notebook).
-* WaterBot- Water Quality Prediction (2023): Built a data analytics and IoT project using Linear Regression, CNN, RNN, and LSTM (Python, Jupyter Notebook).
-* Web application for BWorks community service program (2023): Developed an online application for provider registration and email automation (Angular Framework, Flask, MSSQL).
-* Wordle Game using JAVA (2023): Implemented a captivating Wordle clone using Java's MVC architecture pattern.
+- **Databases:**  
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**I'm always eager to learn and grow!** I'm particularly interested in delving deeper into the exciting realms of DevOps and Data Analysis. Feel free to reach out if you have any projects, questions, or opportunities that align with my interests.
+- **DevOps & Tools:**  
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**Thank you for visiting my profile!** 
+- **CI/CD:**  
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) 
+  ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+- **Version Control:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+
+- **Project Management:**  
+  ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira-software&logoColor=white) 
+  ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) 
+  ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Sreehari's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreehari-thota&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari-thota&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sreeharithota/) or [email](mailto:t.sreehari16@gmail.com).
+
+Thank you for visiting my GitHub profile!
