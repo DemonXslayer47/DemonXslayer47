@@ -1,8 +1,8 @@
 # Hi, I'm Sreehari Thota 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreehari%20Thota-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sreeharithota/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Sreehari%20Thota-black?style=flat-square&logo=github)](https://your-portfolio-link.com)
-[![Medium](https://img.shields.io/badge/Medium-Sreehari%20Thota-12100E?style=flat-square&logo=medium)](https://medium.com/@yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreehari%20Thota-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sreehari-t-494887322/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sreehari%20Thota-black?style=flat-square&logo=github)](https://www.sreeharithota.com)
+[![Medium](https://img.shields.io/badge/Medium-Sreehari%20Thota-12100E?style=flat-square&logo=medium)](https://medium.com/@t.sreehari16)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Associate%20Solutions%20Architect-orange?style=flat-square&logo=amazon-aws)](https://www.certification-link.com)
 
 📧 **Contact me:** t.sreehari16@gmail.com | 📱 **+1 (314)-500-9664**
@@ -93,18 +93,10 @@ I recently completed my **Master's in Computer Science** from **Saint Louis Univ
   ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) 
   ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
----
 
-## 📈 GitHub Stats
-
-![Sreehari's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreehari-thota&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari-thota&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sreeharithota/) or [email](mailto:t.sreehari16@gmail.com).
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sreehari-t-494887322/) or [email](mailto:t.sreehari16@gmail.com).
 
 Thank you for visiting my GitHub profile!
