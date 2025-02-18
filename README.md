@@ -9,7 +9,7 @@
 
 ## 💻 About Me
 
-I am a highly skilled **Senior Java Full-Stack Developer** with over **7 years** of experience in crafting scalable and secure enterprise and web applications across diverse domains. I specialize in developing modern, responsive user interfaces and robust back-end services, with a strong emphasis on **Java** and **JavaScript** technologies.
+I am a highly skilled **Java Full-Stack Developer** with  **5 years** of experience in crafting scalable and secure enterprise and web applications across diverse domains. I specialize in developing modern, responsive user interfaces and robust back-end services, with a strong emphasis on **Java** and **JavaScript** technologies.
 
 I recently completed my **Master's in Computer Science** from **Saint Louis University**, and I hold an **AWS Associate Solution Architect Certification**.
 
