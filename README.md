@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-Sreehari%20Thota-12100E?style=flat-square&logo=medium)](https://medium.com/@t.sreehari16)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Associate%20Solutions%20Architect-orange?style=flat-square&logo=amazon-aws)](https://www.certification-link.com)
 
-📧 **Contact me:** t.sreehari16@gmail.com | 📱 **+1 (314)-500-9664**
+📧 **Contact me:** sreeharithota01@gmail.com | 📱 **+1 (314)-649-0205**
 
 ## 💻 About Me
 
